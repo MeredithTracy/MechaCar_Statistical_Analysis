@@ -1,7 +1,10 @@
 # MechaCar Statistical Analysis
 
 ## Overview of Project
-AutoRUs has tasked us with reviewing their production data on their new prototype, MechaCar, for insights on why they have been experiencing some production trougbles that are blocking the manufacturing progress. 
+Using R, I reviewed production data from AutoRUs on their new prototype, MechaCar, for insights on why they have been experiencing some production trougbles that are blocking the manufacturing progress. 
+-- Performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+-- Collected summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+-- Ran t-tests to determine if the manufacturing lots are statistically different from the mean population
 
 ## Results
 
@@ -29,7 +32,4 @@ AutoRUs has tasked us with reviewing their production data on their new prototyp
 ![D3_Lot2](https://github.com/MeredithTracy/MechaCar_Statistical_Analysis/blob/main/Images/D3_Lot2.png)
 
 ![D3_Lot3](https://github.com/MeredithTracy/MechaCar_Statistical_Analysis/blob/main/Images/D3_Lot3.png)
-
-
-### Study Design: MechaCar vs Competition 
 
