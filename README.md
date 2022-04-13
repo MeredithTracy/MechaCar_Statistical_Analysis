@@ -2,9 +2,9 @@
 
 ## Overview of Project
 Using R, I reviewed production data from AutoRUs on their new prototype, MechaCar, for insights on why they have been experiencing some production trougbles that are blocking the manufacturing progress. 
--- Performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
--- Collected summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
--- Ran t-tests to determine if the manufacturing lots are statistically different from the mean population
+- Performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+- Collected summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+- Ran t-tests to determine if the manufacturing lots are statistically different from the mean population
 
 ## Results
 
